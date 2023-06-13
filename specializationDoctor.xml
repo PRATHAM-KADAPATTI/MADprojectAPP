@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="doc_spec">
+        <item>placeHolder1</item>
+        <item>placeHolder2</item>
+        <item>placeHolder3</item>
+        <item>placeHolder4</item>
+        <item>placeHolder5</item>
+    </string-array>
+</resources>
